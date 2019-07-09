@@ -32,45 +32,13 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
-# Dist and System
+# Dist and OSX
 dist
 lib
 .DS_Store
-Thumbs.db
 
 # Yarn
 yarn.lock
 
 # awesome-typescript
 .awcache
-
- IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history/*
-
-# misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-yarn-error.log
-testem.log
-/typings
-
-
-# Project specific
-package-lock.json

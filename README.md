@@ -1,4 +1,4 @@
-# Typescript Webpack Starter
+# Typescript Three.js Webpack Starter
 
 - Typescript support.
 - Webpack
@@ -16,11 +16,8 @@ npm install typescript -g
 ### Start
 
 ```
-$ git clone https://github.com/wayneparrott/typescript-webpack-starter.git
-$ cd typescript-webpack-starter
+$ git clone https://github.com/pinqy520/three-typescript-starter.git
+$ cd three-typescript-starter
 $ npm install # or yarn
 $ npm start
 ```
-
-
-This project evolved from https://github.com/pinqy520/three-typescript-starter
